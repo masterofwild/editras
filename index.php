@@ -61,8 +61,7 @@
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque recusandae, repudiandae a delectus fugit nostrum cupiditate, quidem omnis voluptates, ipsum placeat eum odio distinctio maiores deleniti. Harum sunt culpa architecto.</p>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque recusandae, repudiandae a delectus fugit nostrum cupiditate, quidem omnis voluptates, ipsum placeat eum odio distinctio maiores deleniti. Harum sunt culpa architecto.</p>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque recusandae, repudiandae a delectus fugit nostrum cupiditate, quidem omnis voluptates, ipsum placeat eum odio distinctio maiores deleniti. Harum sunt culpa architecto.</p>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque recusandae, repudiandae a delectus fugit nostrum cupiditate, quidem omnis voluptates, ipsum placeat eum odio distinctio maiores deleniti. Harum sunt culpa architecto.</p>
-
+     
     </section>
 
     <footer>
